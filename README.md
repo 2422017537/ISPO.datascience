@@ -1,5 +1,4 @@
 # ISPO.datascience
 *****
 
-
-vjezba 1 & 2 zasada
+biljznice, vjezba 1, vjezba 2
