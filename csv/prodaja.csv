@@ -1,9 +1,0 @@
-ID Narudzbe,Datum,Prodavaonica,Proizvod,Kolicina Prodana,Cijena Po Komadu (EUR),Promocija,Ocjena Kupca
-1,2025-10-15,A,Jabuka,100,0.5,Da,5
-2,2025-10-15,A,Banana,150,0.3,Ne,4
-3,2025-10-16,B,Jabuka,80,0.55,,3
-4,2025-10-16,B,Banana,,0.35,Ne,
-5,2025-10-17,A,Naran?a,120,0.6,Da,5
-6,2025-10-17,C,Jabuka,200,0.48,Da,4
-7,2025-10-18,B,Banana,95,0.35,Ne,2
-8,2025-10-18,C,Naran?a,130,,Da,
